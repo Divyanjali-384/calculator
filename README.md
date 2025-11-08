@@ -1,7 +1,11 @@
 Project Overview
+
 This project is a simple calculator application for the Android operating system. The user interface is defined in the activity_main.xml file, which lays out the display for the calculations and the buttons for user input. The application is designed to perform basic arithmetic operations.
+
 I. Project Structure
+
 An Android project has a specific folder structure to organize its different parts. Here are some of the key components:
+
 •app/src/main/java: This directory contains the Java or Kotlin source code for the application's logic. For this calculator, there would be a MainActivity file (e.g., MainActivity.java or MainActivity.kt) that controls the user interface and handles the calculator's functionality.
 •app/src/main/res: This folder holds all the application's resources.
 •app/src/main/res/layout: This contains the XML files that define the user interface for each screen (Activity) of the app. The provided activity_main.xml is one such file.•app/src/main/res/values: This folder contains XML files that store simple values like strings, colors, and styles.
